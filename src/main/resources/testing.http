@@ -1,0 +1,10 @@
+POST http://localhost:8080/do_things
+Content-Type: application/json
+
+{"port": 8081, "queueName": "queueName1", "text": 456}
+
+
+
+
+
+###
